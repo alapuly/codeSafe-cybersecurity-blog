@@ -177,8 +177,13 @@ footer a {
     width: 100%;
   }
 
+  .btn {
+    display: flex;
+    width: 30%;
+  }
+
   .logo2 {
-    width: 100%;
+    width : 40%;
     text-align: center;
   }
 
@@ -234,11 +239,6 @@ footer a {
 
   .padding.show {
     display: block;
-  }
-
-  .btn {
-    display: block;
-    width: 100%;
   }
 
 }
