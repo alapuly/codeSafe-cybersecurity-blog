@@ -1,6 +1,6 @@
 # codeSafe-cybersecurity-blog
 
-**EN**
+## EN
 
 This folder contains the content for my cybersecurity blog. 
 The blog covers topics related to cybersecurity, including:
@@ -12,7 +12,7 @@ The blog covers topics related to cybersecurity, including:
 
 I welcome contributions from anyone who is interested in cybersecurity. Please feel free to submit pull requests with new posts or improvements to existing posts.
 
-## Contributing
+### Contributing
 
 To contribute to the blog, please follow these steps:
 
@@ -34,7 +34,7 @@ I look forward to seeing your contributions!
 
 
 
-**FR**
+## FR
 
 Ce dossier contient le contenu de mon blog sur la cybersécurité. 
 Le blog couvre des sujets liés à la cybersécurité, y compris :
@@ -46,7 +46,7 @@ Le blog couvre des sujets liés à la cybersécurité, y compris :
 
 Les contributions de toute personne intéressée par la cybersécurité sont les bienvenues. N'hésitez pas à soumettre des demandes d'ajout de nouveaux articles ou d'amélioration d'articles existants.
 
-## Contribuer
+### Contribuer
 
 Pour contribuer au blog, veuillez suivre les étapes suivantes :
 
