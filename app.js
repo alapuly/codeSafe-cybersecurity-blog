@@ -42,6 +42,33 @@ showMoreText(button8, text8)
 
 //////////////////////////////////////////
 
+//SEE LESS
+
+seeLessButton = document.querySelector(".see_less"),
+  seeLessButton2 = document.querySelector(".see_less2"),
+  seeLessButton3 = document.querySelector(".see_less3"),
+  seeLessButton4 = document.querySelector(".see_less4"),
+  seeLessButton5 = document.querySelector(".see_less5"),
+  seeLessButton6 = document.querySelector(".see_less6"),
+  seeLessButton7 = document.querySelector(".see_less7"),
+  seeLessButton8 = document.querySelector(".see_less8")
+
+function seeLess(seeLessButton, seeMoreButton, text) {
+  seeLessButton.addEventListener("click", () => {
+    seeMoreButton.style.display = "inline";
+    text.style.display = "none";
+  })
+}
+
+seeLess(seeLessButton, buttonRecent, moreTextRecent)
+seeLess(seeLessButton2, buttonTendances, moreTextTendances)
+seeLess(seeLessButton3, button3, text3)
+seeLess(seeLessButton4, button4, text4)
+seeLess(seeLessButton5, button5, text5)
+seeLess(seeLessButton6, button6, text6)
+seeLess(seeLessButton7, button7, text7)
+seeLess(seeLessButton8, button8, text8)
+
 //SEARCH FORM
 
 const input = document.querySelector('input');
