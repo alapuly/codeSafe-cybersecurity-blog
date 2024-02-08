@@ -2,14 +2,15 @@
 
 const buttonRecent = document.querySelector(".readmore-recent"),
   moreTextRecent = document.querySelector(".hidden-recent"),
-  buttonTendances = document.querySelector(".readmore-tendances"),
-  moreTextTendances = document.querySelector(".hidden-tendances"),
   button3 = document.querySelector(".article3"),
   text3 = document.querySelector(".hidden-article3"),
   button4 = document.querySelector(".article4"),
   text4 = document.querySelector(".hidden-article4"),
   button5 = document.querySelector(".article5"),
   text5 = document.querySelector(".hidden-article5"),
+
+  buttonTendances = document.querySelector(".readmore-tendances"),
+  moreTextTendances = document.querySelector(".hidden-tendances"),
   button6 = document.querySelector(".article6"),
   text6 = document.querySelector(".hidden-article6"),
   button7 = document.querySelector(".article7"),
